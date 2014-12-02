@@ -7,7 +7,7 @@ At first I didn't bother to ask where does the goals come from, so often they we
 
 I made it but within a year I was so bitter that everything seemed like a disappointment. I was in a bad relationship, without many friends nor money, chasing somebody else's dreams.
 
-When a friend died I decided that life is short and uncertain and I should be chasing my own dreams. I always liked to create things and enjoyed computers, so why not become a software developer? Now I focused on making really good software.
+When a friend died I noticed that life is uncertain and can be shorter than expected. It was time to chase my own dreams. I always liked to create things and enjoyed computers, so why not become a software developer? Now I focused on making really good software.
 
 Having no formal education nor professional experience I was learning a lot in a fast manner. One of the things I learned is that when you run your own business, it is only part of the equation to have good product or service. You also have to market it and manage your resources.
 
@@ -27,6 +27,6 @@ I was lucky. The scale of the disaster made every decision maker very open minde
 
 Gradually my coworkers and even people from other departments started to ask me to tweak some parts of the app, enhance it with new functionality or to devise new solutions. Soon I was so involved in software development, that the president of the court agreed that it should be my only job.
 
-Suddenly I became passionate about my job. The problems were fascinating and I had complete freedom in devising the solutions. My work was valued. Within next year our team managed to process 35 cases - old and new ones. And when I decided that I need new experience I had no problem finding next job as a software developer.
+Suddenly I became passionate about my job. The problems were fascinating and I had complete freedom in devising the solutions. My work was valued. Within next year our team managed to process 30 000 cases - old and new ones. And when I decided that I need new experience I had no problem finding next job as a software developer.
 
 I believe the most important thing that I have learned during this years is to think about my goals every day, but only for a while. Rest of the time I should focus on where I am.
