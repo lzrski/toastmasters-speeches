@@ -9,17 +9,17 @@ Speech outline
 
 1. Opening `30-40 sec`
 
-  `Install a mirror on the stand.`
-
-  Please rise your hand if you know what that is?
-
-  Yes, that's a mirror! Now if usually you can recognize yourself in a mirror, please keep your hands up.
-
-  Very good. If you believe that was easy, please clap your hands three times.
-
-  Thank you.
-
   * A mirror test
+
+    `Install a mirror on the stand.`
+
+    Please rise your hand if you know what that is?
+
+    Yes, that's a mirror! Now if usually you can recognize yourself in a mirror, please keep your hands up.
+
+    Very good. If you believe that was easy, please clap your hands three times.
+
+    Thank you.
 
     Elephants can recognize themselves in a mirror. So does most humans. However, majority of other animals cannot.
 
@@ -31,11 +31,17 @@ Speech outline
 
 2. Body `4 min`
 
-  * Humans have to learn non stop to be humans. Adults who were isolated from society have hard time learning to use a mirror. Learning is easy when you are a child, and become more difficult when you become older.
+  * Humans have to learn non stop to be humans.
 
-  * Your imagination is your worst enemy when it comes to learning. Everything is hard until we learn how to do it. However, The things we consider trivial now, were hard for us before we mastered it.
+    Adults who were isolated from society have hard time learning to use a mirror. Learning is easy when you are a child, and become more difficult when you become older.
 
-  * Everything is hard until we learn howere hard for us before we mastered it.
+  * Your imagination is your worst enemy when it comes to learning.
+
+    Everything is hard until we learn how to do it. However, the things we consider trivial now, were hard for us before we mastered it.
+
+  * By using your imagination, you can make learning process easier
+  
+    Your imagination will be your best friend if you put it upside down and start from the end. *An example from others or your experience that proves that imagining yourself doing it already works. I recall some stories on how athletes are trained through imagining that they play already an important game. Or it might be a down to Earth story from your life like learning skiing or programming, etc.*
 
 3. Conclusion `30 sec - 1 min`
 
