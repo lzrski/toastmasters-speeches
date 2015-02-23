@@ -25,4 +25,6 @@ Speech outline
 
   * Whenever you feel that something you are about to learn is hard - remember it is all your imagination; imagine yourself in the future, when you know how to do it. Then it will be simple.
 
-  * I would add a quote at the very end. Might be reference to an elephant in conclusion to refer to the beginning and close the loop of structure.
+  * Quote Johann Wolfgang von Goethe:
+
+    *Everything is hard before it's easy*
