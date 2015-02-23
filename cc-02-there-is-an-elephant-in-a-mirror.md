@@ -9,9 +9,25 @@ Speech outline
 
 1. Opening `30-40 sec`
 
+  `Install a mirror on the stand.`
+
+  Please rise your hand if you know what that is?
+
+  Yes, that's a mirror! Now if usually you can recognize yourself in a mirror, please keep your hands up.
+
+  Very good. If you believe that was easy, please clap your hands three times.
+
+  Thank you.
+
   * A mirror test
 
-    Elephants can recognize themselves in a mirror. However, majority of other animals cannot. Genetics play a vital role in defining gifts and skills of animals. Humans, though, have a shortcut to getting almost any skill much easier than one can imagine. I will show that i) non-stop learning is what makes us humans; ii) difficulty of learning is a fruit of your imagination and iii) you can use your imagination to learn things easier.
+    Elephants can recognize themselves in a mirror. So does most humans. However, majority of other animals cannot.
+
+    Genetics play a vital role in defining gifts and skills of animals. Humans, though, have a shortcut to getting almost any skill much easier than one can imagine. I will show that
+
+      i) non-stop learning is what makes us humans;
+      ii) difficulty of learning is a fruit of your imagination and
+      iii) you can use your imagination to learn things easier.
 
 2. Body `4 min`
 
@@ -23,7 +39,7 @@ Speech outline
 
 3. Conclusion `30 sec - 1 min`
 
-  * Whenever you feel that something you are about to learn is hard - remember it is all your imagination; imagine yourself in the future, when you know how to do it. Then it will be simple.
+  * Whenever you feel that something you are about to learn is hard - remember it is all your imagination; imagine yourself in the future, when you know how to do it. Imagine that eventually **it will be easy** for you.
 
   * Quote Johann Wolfgang von Goethe:
 
